@@ -1,1 +1,1 @@
-This fork of [Ray] (https://github.com/zakki/Ray) exists only to make a small change and a pull request.  Now the request has been accepted, this page serves no useful purpose, so you should just use zakki's version.
+This fork of [Ray] (https://github.com/zakki/Ray) exists only to make a small change (in the zl branch, add the command line option --weights) and a pull request.  Now the request has been accepted, this page serves no useful purpose, so you should just use zakki's version.
